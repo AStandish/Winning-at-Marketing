@@ -3,7 +3,7 @@
 Winning-At-Marketing
 
 ## Description
-In this project, I cleaned up the HTML codes in the index to more descriptive HTML semantics. I also cleaned up the CSS so that it was less lengthy, easier to read, and matched the index. I used this website: https://www.w3schools.com/html/html5_semantic_elements.asp for reference. Here's the link to the live server: http://127.0.0.1:5500/01-Week_HTML-Git-CSS/Develop/index.html and link to git hub deployment: https://github.com/AStandish/Winning-at-Marketing.git
+In this project, I cleaned up the HTML codes in the index to more descriptive HTML semantics. I also cleaned up the CSS so that it was less lengthy, easier to read, and matched the index. I used this website: https://www.w3schools.com/html/html5_semantic_elements.asp for reference. Here's the link to the live server: http://127.0.0.1:5500/01-Week_HTML-Git-CSS/Develop/index.html and link to live server: https://github.com/AStandish/Winning-at-Marketing.git and a link to git hub deployment https://astandish.github.io/Winning-at-Marketing/
 
 ## Badges
 https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FAStandish%2FWinning--at--Marketing.git-git%20hub-red
